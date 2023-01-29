@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "Various view specific methods for application I use."
   spec.description = "Provides generated HTML data for Rails application"
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage = "https://google.com"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.4.0"
 
